@@ -1,2 +1,2 @@
 # Write your code here.
-def 
+def word_substituter
